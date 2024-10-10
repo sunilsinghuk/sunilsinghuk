@@ -31,12 +31,16 @@ In my free time, I like exploring new technologies, contributing to open-source 
 
 
 ## 🎓 Education
+- MBA in Business Analytics, Amity University (Pursuing).
+- PDGM in Finance, IMT Ghaziabad, Utter Pradesh
 - Masters (M.Tech) in Computer engineering, Govind Ballabh Pant University of Agriculture and Technology
 - Bachelors (B.Tech) in Information Technology, Uttarakhand Technical University
 
 
 ## 📜 Certifications
-Coursera: Data Science professional, Machine Learning, IT support in Healthcare Specializations
+- IBM Data Science professional
+- Machine Learning
+- IT support in Healthcare Specializations from John Hopekins University
 
 
 ## 🔥 GitHub Stats:
