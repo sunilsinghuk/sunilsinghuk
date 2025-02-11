@@ -1,23 +1,26 @@
 ## Hi there, I'm Sunil Singh 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=sunilsinghuk&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=sunilsinghuk&color=green)
 
+---
 
 ## 🚀 About Me
 
-I'm Sunil Kumar Singh, an Assistant Professor specializing in Computer Engineering and Data Science at COER University. With a passion for blending academic knowledge and industry experience, I've also worked as a Power BI Developer/Analyst and interned at renowned firms like KPMG and The Spark Foundation.
+I'm **Sunil Kumar Singh**, an **Assistant Professor** specializing in **Computer Engineering and Data Science** at **COER University**. I have a strong blend of academic and industry experience, having worked as a **Power BI Developer/Analyst** and interned at renowned firms like **KPMG** and **The Spark Foundation**.
 
-I love to explore and teach topics around data science, data analytics, business intelligence, and big data. I'm currently working on several academic projects while pursuing an MBA in Business Analytics to further strengthen my expertise in the field. I enjoy solving complex problems and helping students bridge the gap between theory and real-world applications.
+I am passionate about **data science, data analytics, business intelligence, and big data**. My research and academic projects focus on **Machine Learning, AI, and advanced data visualization**. I am also pursuing an **MBA in Business Analytics** to further enhance my expertise.
 
-In my free time, I like exploring new technologies, contributing to open-source projects, and mentoring students and professionals on their learning and project journeys.
+Beyond academia, I love exploring new technologies, contributing to open-source projects, and mentoring students and professionals on their learning journeys.
 
-- 🌱 I’m currently learning more about **advanced data analytics** and **AI in healthcare**.
-- 🔭 I’m currently working on **data science and Machine Learning and visualization/dashboard development projects**.
-- 💬 Ask me about **data science, machine learning, and Power BI**.
-- ⚡ Fun fact: I love to stay updated with the latest trends in technology and fitness, and I enjoy discovering how data influences everyday life!
+### 🔍 Currently:
+- 🌱 Learning **Advanced Data Analytics** and **AI in Healthcare**
+- 🔭 Working on **Machine Learning, Data Science, and Dashboard Development Projects**
+- 💬 Ask me about **Data Science, Machine Learning, Power BI, and Data Visualization**
+- 🏋️‍♂️ Fun fact: I enjoy staying updated on **technology trends, fitness, and how data influences our daily lives!**
 
+---
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10218B?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -29,34 +32,52 @@ In my free time, I like exploring new technologies, contributing to open-source 
 ![NoSQL](https://img.shields.io/badge/-NoSQL-FF6F61?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
 ## 🎓 Education
-- MBA in Business Analytics, Amity University (Pursuing).
-- PDGM in Finance, IMT Ghaziabad, Utter Pradesh
-- Masters (M.Tech) in Computer engineering, Govind Ballabh Pant University of Agriculture and Technology
-- Bachelors (B.Tech) in Information Technology, Uttarakhand Technical University
 
+- **MBA in Business Analytics**, Amity University (Pursuing)
+- **PGDM in Finance**, IMT Ghaziabad, Uttar Pradesh
+- **M.Tech in Computer Engineering**, Govind Ballabh Pant University of Agriculture and Technology
+- **B.Tech in Information Technology**, Uttarakhand Technical University
+
+---
 
 ## 📜 Certifications
-- IBM Data Science professional
-- Machine Learning
-- IT support in Healthcare Specializations from John Hopekins University
 
+- **IBM Data Science Professional Certificate**
+- **Machine Learning Specialization**
+- **IT Support in Healthcare Specialization – Johns Hopkins University**
 
-## 🔥 GitHub Stats:
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunilsinghuk&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilsinghuk&layout=compact&theme=radical)
 
+---
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sunilsinghuk&theme=onedark)](https://github.com/sunilsinghuk/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sunilsinghuk&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
 
+---
 
-## 🌍 Connect with me:
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunilsingh-in)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunilsinghuk)
+
+---
+
+### 🚀 Additional Features
+- **Dynamic Profile Views Counter** ✅
+- **Improved GitHub Trophies Integration** 🏆
+- **Enhanced Readability & Formatting** ✨
+- **More Engaging About Me Section** 📌
+- **Better Structured Sections for Easy Navigation** 📖
+
+Let me know if you need any further modifications! 😊
