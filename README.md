@@ -53,6 +53,7 @@ Beyond academia, I love exploring new technologies, contributing to open-source 
 - **Google Cloud Professional Data Engineer**
 
 
+
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sunilsinghuk&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
